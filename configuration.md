@@ -1,6 +1,6 @@
 # 配置项
 
-你可以配置在 `window.$docsify` 里。
+你可以配置 `window.$docsify` 里。
 
 ```html
 <script>
